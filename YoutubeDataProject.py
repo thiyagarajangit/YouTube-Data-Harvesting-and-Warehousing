@@ -263,8 +263,8 @@ comment_details=''
 if option:
     try:
         if option == 'Retrieving data and Store data to MongoDB':
-            channel_id = st.text_input("Enter Channel ID: ",'UC2J_VKrAzOEJuQvFFtj3KUw')  # get a input from user
-            api_key = st.text_input("Enter Your API Key:", 'AIzaSyAh3WiC4UQquzZM0apTwrJzcOQ9fjmKruM',type='password')  # get a API key from user
+            channel_id = st.text_input("Enter Channel ID:")  # get a input from user
+            api_key = st.text_input("Enter Your API Key:")  # get a API key from user
             youtube = googleapiclient.discovery.build(api_service_name, api_version, developerKey=api_key)
             submit_c = st.button(':blue[Retrieve Data]')
             if submit_c:
