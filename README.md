@@ -47,6 +47,32 @@ This project aims to develop a user-friendly Streamlit application that utilizes
 ![image](https://github.com/thiyagarajangit/YouTube-Data-Harvesting-and-Warehousing/assets/142799337/64499369-08bd-4112-a024-022d379626ef)
 ![image](https://github.com/thiyagarajangit/YouTube-Data-Harvesting-and-Warehousing/assets/142799337/2261530a-d0d0-4e40-9100-b6a82eef647e)
 
+**MongoDB Table Samples:-**
+-----------------------
+![image](https://github.com/thiyagarajangit/YouTube-Data-Harvesting-and-Warehousing/assets/142799337/5e75dc09-a28c-4fe1-aadd-8fbde8b0b5f5)
+
+![image](https://github.com/thiyagarajangit/YouTube-Data-Harvesting-and-Warehousing/assets/142799337/aaa53b1f-42b1-4570-a09a-63100429626e)
+
+![image](https://github.com/thiyagarajangit/YouTube-Data-Harvesting-and-Warehousing/assets/142799337/f974f072-a24b-45ad-a49d-e55a600cc655)
+
+![image](https://github.com/thiyagarajangit/YouTube-Data-Harvesting-and-Warehousing/assets/142799337/186106dc-97b3-4c8f-bebc-c3ef87c8dae3)
+
+**MySQL Table Samples:-**
+-----------------------
+![image](https://github.com/thiyagarajangit/YouTube-Data-Harvesting-and-Warehousing/assets/142799337/8967a99f-cdfe-4b69-914f-7aaf5fec6438)
+
+![image](https://github.com/thiyagarajangit/YouTube-Data-Harvesting-and-Warehousing/assets/142799337/0550ea05-7093-44d8-b225-d19eef7e53e9)
+
+![image](https://github.com/thiyagarajangit/YouTube-Data-Harvesting-and-Warehousing/assets/142799337/bd9b3312-014a-41f4-b527-e18fac1e0a8c)
+
+![image](https://github.com/thiyagarajangit/YouTube-Data-Harvesting-and-Warehousing/assets/142799337/d4c8cec7-c58a-4808-a0ea-a26dbc60ebac)
+
+
+
+
+
+
+
 
 
 
